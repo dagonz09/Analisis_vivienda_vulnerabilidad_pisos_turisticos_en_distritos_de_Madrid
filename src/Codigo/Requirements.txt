@@ -1,0 +1,4 @@
+pandas
+sweetviz
+seaborn
+scikit-learn
