@@ -1,0 +1,12 @@
+Codigo distrito;
+Nombre distrito;
+Fecha datos;
+Indice de Vulnerabilidad Territorial Agregado;
+Indice de Vulnerabilidad Territorial Agregado - media ciudad;
+Índice de Vulnerabilidad Bienestar Social e Igualdad;
+Índice de Vulnerabilidad Bienestar Social e Igualdad - media ciudad;Índice de Vulnerabilidad Medio Ambiente Urbano y Movilidad;
+Índice de Vulnerabilidad Medio Ambiente Urbano y Movilidad - media ciudad;
+Índice de Vulnerabilidad Educación y Cultura;Índice de Vulnerabilidad Educación y Cultura - media ciudad;
+Índice de Vulnerabilidad Economía y Empleo;
+Índice de Vulnerabilidad Economía y Empleo - media ciudad;Índice de Vulnerabilidad Salud;
+Índice de Vulnerabilidad Salud - media ciudad
